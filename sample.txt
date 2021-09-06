@@ -1,3 +1,6 @@
 Hello this is my sample text file.
 
 This is Feature1
+
+This is Feature2
+
